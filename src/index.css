@@ -146,6 +146,7 @@ body {
 .card-container .card img {
   width: 200px;
   height: 200px;
+  image-rendering: pixelated;
 }
 
 .card-container .card .block-container {
